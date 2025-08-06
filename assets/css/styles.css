@@ -265,10 +265,7 @@ a {
 .mini-separator {
   padding: 20px 0; }
   
-  section {
-    //padding: 60px 0;
-    //padding-bottom: 30px;
-}
+/* Removed empty section ruleset to fix compile error */
 
 /**
  * ---------------------
